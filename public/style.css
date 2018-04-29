@@ -1,0 +1,28 @@
+body {
+  background: linear-gradient(to right, violet, white);
+}
+
+#game_canvas {
+  border-radius: 15px;
+  box-shadow: 2px 10px 50px gray  ;
+}
+
+#main_div {
+  position: absolute;
+  left: 50%;
+  margin-left: -400px;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+  text-shadow: 0px 0px 15px violet;
+}
+
+h2 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-style: italic;
+  color: white;
+  text-shadow: 0px 0px 15px violet;
+}
