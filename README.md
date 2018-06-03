@@ -1,2 +1,2 @@
-A javascript game created to make fun of my friends.
-You can play it at: http://kosavsharmasz.herokuapp.com/
+A simple javascript game created to learn about neuroevolution (and to make fun of my friends).<br>
+<b>You can play it at: http://smolaga.herokuapp.com/kosa_vs_harmasz/ </b>
